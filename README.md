@@ -1,5 +1,8 @@
 # Health Stats App
 
+![Screenshot 1](assets/Screenshot1.jpeg)
+![Screenshot 2](assets/Screenshot2.jpeg)
+
 A modern Flutter UI application designed for tracking daily health metrics, fitness activities, and personal wellness goals.
 
 ## Features
